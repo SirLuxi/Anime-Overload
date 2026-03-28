@@ -14,7 +14,7 @@ A fully automated, vision-powered farming macro with a premium desktop UI — bu
 ---
 
 <!-- Replace the line below with your actual screenshot once uploaded (see the Screenshot Guide section) -->
-<!-- ![App Screenshot](./assets/screenshot.png) -->
+<-- ![App Screenshot](./assets/screenshot.png) -->
 
 ---
 
